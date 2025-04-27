@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 **Learning Path**: Diving deeper into **AI/ML**, particularly **Computer Vision**, and integrating it with **front-end/back-end** development.  
 - 🤝 **Collaboration**: Open to working on projects that blend Python, AI/ML, and web development. Let's create something amazing together!  
 - 📧 **Reach Me At**: [krishna.gwl11@gmail.com](mailto:krishna.gwl11@gmail.com)  
-- 🌈 **Pronouns**: he/him  
+
 
 ---
 
