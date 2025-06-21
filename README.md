@@ -1,56 +1,37 @@
-# 👋 Hi, I'm @krishnasharma0101 (aka Krishna Sharma) 🌟 🔥  
+👋 Hi, I'm @krishnasharma0101 (Krishna Sharma)
+Welcome to my GitHub! I'm a research-oriented developer and systems thinker with a strong focus on Artificial Intelligence, System Automation, Cybersecurity, and Decentralized Technologies. My work revolves around pushing boundaries — whether it's designing smarter algorithms, exploring the fusion of human cognition with code, or simplifying complex tools for everyday developers.
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Deep Learning**, **AI/ML**, and all things **Python**. My journey in tech revolves around exploring the fascinating possibilities of technology and creating impactful solutions, with a special focus on **Computer Vision**. 🚀  
+🧠 About Me
+🧪 Researcher at Heart: Passionate about the intersection of ML, security, and Web3 protocols.
 
----
+🔬 Exploration-Driven: Constantly experimenting with new architectures, systems-level thinking, and human-AI interaction paradigms.
 
-## 💡 About Me  
+🛠️ Builder Mindset: I love creating tools that reduce friction in the dev workflow and empower other builders.
 
-- 🔭 **Currently Working On**: Sharpening my Python skills to become an advanced developer.  
-- 🌱 **Learning Path**: Diving deeper into **AI/ML**, particularly **Computer Vision**, and integrating it with **front-end/back-end** development.  
-- 🤝 **Collaboration**: Open to working on projects that blend Python, AI/ML, and web development. Let's create something amazing together!  
-- 📧 **Reach Me At**: [krishna.gwl11@gmail.com](mailto:krishna.gwl11@gmail.com)  
+💬 Community-First: Believer in collaborative learning, open source, and student-driven innovation.
 
+🛤️ Current Focus
+Algorithm Design: Crafting lightweight, modular, and adaptive algorithms for emerging tech domains.
 
----
+Multidisciplinary Integration: Merging AI, cyber-physical systems, and blockchain for real-world use cases.
 
-## ⚡ Fun Facts  
+Knowledge Sharing: Writing clean, open code and sharing tools that scale beyond prototypes.
 
-- 🧩 Problem-solver by heart and developer by choice.  
-- ☕ Coffee enthusiast who believes in the magic of a well-brewed cup.  
-- 🥾 Hiking trails are my second home, where I recharge and connect with nature.  
+🧰 Skills & Interests
+Core Fields: Machine Learning, Cognitive Computing, Decentralized Systems, System-Level Automation
 
----
+Languages: Python, JavaScript, Shell
 
-## 🛠️ Tech Stack  
+Tools & Libraries: PyTorch, OpenCV, Scikit-learn, Docker, Git, Flask, React
 
-- **Languages**: Python, JavaScript, HTML/CSS  
-- **Frameworks & Libraries**: Flask, Django, React  
-- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras  
-- **Databases**: MySQL, PostgreSQL  
-- **Tools**: Git, Docker, VSCode, Jupyter Notebook  
-- **Interests**: Deep Learning, Machine Learning, Computer Vision, Full-Stack Development  
+Research Threads: Model efficiency, neuro-symbolic reasoning, agentic systems, trust in automation
 
----
+🌍 Let's Connect
+If you're into meaningful tech — whether it's building the next frontier of AI, reimagining the web, or hacking on protocol-level ideas — let’s talk. I’m always open to thoughtful collaboration and new perspectives.
 
-## 📈 GitHub Stats  
+📫 krishna.gwl11@gmail.com
+🔗 LinkedIn
 
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnasharma0101&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasharma0101&layout=compact&theme=radical)  
+“Code is not just syntax — it’s a way to understand the world, and shape it.”
 
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sharma-7953b42a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-
-
----
-
-### 🖇️ Let’s Connect  
-
-If you're working on exciting projects, particularly in **AI/ML** or **Computer Vision**, or brainstorming new ideas, let’s connect! Collaboration leads to great innovations. 🤝  
-
----
-
-Thank you for stopping by! 🚀 Let's make the world a better place with code. 🌟
+Thanks for visiting! Let’s reshape what’s possible. 🚀
