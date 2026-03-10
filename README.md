@@ -30,7 +30,7 @@ Research Threads: Model efficiency, neuro-symbolic reasoning, agentic systems, t
 If you're into meaningful tech — whether it's building the next frontier of AI, reimagining the web, or hacking on protocol-level ideas — let’s talk. I’m always open to thoughtful collaboration and new perspectives.
 
 📫 krishna.gwl11@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/krishna-sharma-7953b42a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 “Code is not just syntax — it’s a way to understand the world, and shape it.”
 
